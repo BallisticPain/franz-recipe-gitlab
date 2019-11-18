@@ -1,0 +1,13 @@
+{
+  "id": "gitlab",
+  "name": "GitLab",
+  "version": "1.0.0",
+  "description": "GitLab",
+  "main": "index.js",
+  "author": "Jarvis (BallisticPain) Stubblefield",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://gitlab.com/",
+    "hasTeamID": false
+  }
+}
